@@ -23,12 +23,12 @@ public final class Constants {
   /**
    * GCM Endpoint for sending messages.
    */
-  public static final String GCM_SEND_ENDPOINT = "https://gcm-http.googleapis.com/gcm/send";
+  public static final String GCM_SEND_ENDPOINT= "https://gcm-http.googleapis.com/gcm/send";
 
   /**
    * FCM Endpoint for sending messages.
    */
-  public static final String FCM_SEND_ENDPOINT = "https://fcm.googleapis.com/fcm/send";
+  public static final String FCM_SEND_ENDPOINT= "https://fcm.googleapis.com/fcm/send";
 
   /**
    * Parameter for to field.
